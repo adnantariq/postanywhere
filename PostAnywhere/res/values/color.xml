@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="title_strip_color">#b3d663</color>
+
+    <!--
+         Define a standard holo blue color. Useful as we can refer to it from various other
+         resource files or even code and it only needs to be updated in one place if we wanted
+         to change it.
+    -->
+    <color name="holo_blue">#FF33B5E5</color>
+    <color name="border_color">#D4DBE5</color>
+
+</resources>
